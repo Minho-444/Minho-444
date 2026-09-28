@@ -16,26 +16,23 @@ class YounessAgrine:
    def __init__(self):
        self.name = "Youness Agrine"
        self.role = "Software Engineering & Networking Student"
-       self.school = "Higher School of Technology"
-       self.year = "2nd Year"
-       self.coding_journey = "8 months"
+       self.school = "Faculty of Sciences and Technologies"
+       self.year = "3nd Year"
+       self.coding_journey = "1.5 years"
        self.location = "Morocco 🇲🇦"
        
-   def current_focus(self):
-       return [
-           "Data Structures & Algorithms",
-           "LeetCode Problem Solving", 
-           "Software Engineering Fundamentals",
-           "Network Programming"
-       ]
+  def current_focus(self):
+    return [
+        "Cybersecurity & Ethical Hacking",
+        "Networking & Network Security",
+        "Cryptography",
+        "Data Structures & Algorithms",
+        "Competitive Programming",
+        "Data Science & Machine Learning",
+        "Software Engineering",
+        "Linux & System Administration"
+    ]
        
-   def goals_2026(self):
-       return [
-           "Master DSA concepts",
-           "Solve 900+ LeetCode problems",
-           "Build impactful projects",
-           "Contribute to open source"
-       ]
 ```
 
 
