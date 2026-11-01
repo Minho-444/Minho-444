@@ -1,4 +1,4 @@
-#  *Hi there, I'm Him*
+<img width="360" height="360" alt="100 (1)" src="https://github.com/user-attachments/assets/61899940-ec34-4b61-8c9a-435420d20ef7" />#  *Hi there, I'm Him*
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/36a89661-ecb3-4465-b62a-5a190186a984)
 
 <div align="center">
@@ -43,9 +43,9 @@ class YounessAgrine:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/youness-444?ext=heatmap&theme=dark&font=Baloo%202)](https://leetcode.com/u/youness-444/) 
 
 <img src="https://github.com/user-attachments/assets/757cfb1d-3b02-485d-b88e-b7027f23f0f9" width="200" alt="LeetCode 200 Days Badge"/>
-<img src="https://github.com/user-attachments/assets/5f1f05e3-4701-4859-8072-53ae00a56fdf" width="200"/>
+<img src="https://github.com/user-attachments/assets/3ef0600e-ba3f-42c7-aebf-e018bd27be66" width="200"/>
 <img src="https://github.com/user-attachments/assets/e1cfeccd-2c02-446b-bae5-dbb9321d2dea" width="200"/>  
-<img src="https://github.com/user-attachments/assets/f48f584a-6313-4b5d-893e-3463461066bf" width="200"/>
+<img src="https://github.com/user-attachments/assets/07698ee2-8d01-4eec-a0ee-ed070f8d9014" width="200"/>
 
 
 
