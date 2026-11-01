@@ -1,4 +1,4 @@
-<img width="360" height="360" alt="100 (1)" src="https://github.com/user-attachments/assets/61899940-ec34-4b61-8c9a-435420d20ef7" />#  *Hi there, I'm Him*
+#  *Hi there, I'm Him*
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/36a89661-ecb3-4465-b62a-5a190186a984)
 
 <div align="center">
